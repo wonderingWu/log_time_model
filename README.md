@@ -81,8 +81,8 @@ regen_all/
 │   ├── cosmology/          # Cosmology analysis results
 │   ├── ising/              # Ising model results
 │   └── tfim*/              # Quantum Ising model results
-├── README.md               # Project documentation (Chinese)
-├── README_EN.md            # Project documentation (English)
+├── README_zh.md            # Project documentation (Chinese)
+├── README.md               # Project documentation (English)
 └── requirements.txt        # Dependencies list
 ```
 
